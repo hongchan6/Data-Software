@@ -1,0 +1,515 @@
+commit 95e07d6792a6b9ef73a531819b71b7070ffa9a0b
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Oct 9 18:08:30 2022 +1000
+
+    All document reviewed
+
+commit 1c168ef201c1296b6d0bb7cbaf7fe64c7c441c4e
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Oct 8 19:42:34 2022 +1000
+
+    SDD UserM checked
+
+commit b523b878d3974e169b1c85e6e85cb882c81c175e
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Oct 8 11:05:07 2022 +1000
+
+    Documents update
+
+commit d01244f6aaf8560ec1b44a9d5d5d3173d21eafd9
+Author: s5267134 <git@github.com:s5267134>
+Date:   Fri Oct 7 21:55:30 2022 +1000
+
+    update project plan, gantt chart, executive summary
+
+commit 2bcd3ad8539897ef2244408265ed1a42a64284d4
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Oct 7 19:48:53 2022 +1000
+
+    SDD B updated
+
+commit 3501cc7648b3906a286064d22a4263d4b6bed877
+Author: s5267134 <git@github.com:s5267134>
+Date:   Fri Oct 7 19:12:21 2022 +1000
+
+    update report
+
+commit dcd135031b6f8e302aae8c4c61f89d5435e59426
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Oct 7 16:24:35 2022 +1000
+
+    git log update
+
+commit 9129ce72ff3d4a03afc34fb2cefeacb8737e70a1
+Author: s5267134 <git@github.com:s5267134>
+Date:   Fri Oct 7 16:23:18 2022 +1000
+
+    update testing report, unit code
+
+commit f8dac5cd8aebc27d28eac0703a71353087cb04d7
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Fri Oct 7 15:40:04 2022 +1000
+
+    update
+
+commit 9fa2dade5dcfec4f876101d239c46b789dd54368
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Fri Oct 7 15:35:49 2022 +1000
+
+    update test cases
+
+commit 124cfcbfba99d4023c23bab917e0694a63b28a2d
+Author: s5267134 <git@github.com:s5267134>
+Date:   Fri Oct 7 15:23:04 2022 +1000
+
+    update testing report, unit code
+
+commit 1dac1ee025f2bfe9ddf824bf0e9dc8ddf5adaa95
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Oct 7 13:42:48 2022 +1000
+
+    User Manual update
+
+commit c4cebee84f94fb0001daf23c4e81ae497e2080c7
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Oct 7 13:12:23 2022 +1000
+
+    User Manual
+
+commit 9a914187ddb227cbd24165e23b29a86451aad15a
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Fri Oct 7 12:12:55 2022 +1000
+
+    update: added unit tests
+
+commit 4f79acb3b03f5f035c21e96b3d63bcf380aef889
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Fri Oct 7 10:10:43 2022 +1000
+
+    update: all suburb option
+
+commit 13e8a89c1ddc759145e24bc87a1b1623327b3d75
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Oct 6 22:50:19 2022 +1000
+
+    unittest
+
+commit 22d0cc5ac1d6742718f5f2f41944a27ca6a8e5c0
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Oct 6 22:31:56 2022 +1000
+
+    test file
+
+commit 16aac5bb7df668ad3208f1227f37b6b6ccc503ad
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Thu Oct 6 21:30:42 2022 +1000
+
+    update: finished application UI
+
+commit 557323b5e07412b20101a090fbee73d35875b8dc
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Oct 6 16:59:57 2022 +1000
+
+    test-getSuburb
+
+commit 97314cdc42ac8b916033668b72e11fa095fbfdf2
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Wed Oct 5 23:23:39 2022 +1000
+
+    update: draw chart funcs
+
+commit 2c290a572065afb81e55c514c0163ee691290619
+Author: s5267134 <git@github.com:s5267134>
+Date:   Tue Oct 4 14:14:08 2022 +1000
+
+    update graph
+
+commit 683ffc1bee3491e28790c29cf92f6ddb9d76b87e
+Author: s5267134 <git@github.com:s5267134>
+Date:   Tue Oct 4 12:51:47 2022 +1000
+
+    update price graph
+
+commit 759fc1630ac0e8d377890eacb40b82d5192d276b
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Sun Oct 2 21:39:08 2022 +1000
+
+    update: UI for display charts
+
+commit a7af65f20cfd87cc8b553f50e35d414fe135f2d1
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Sun Oct 2 20:57:00 2022 +1000
+
+    update: finalize property detail dialog
+
+commit 18933c38ddb7fd23593af3df9c9a718ff27a9eca
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Oct 1 18:02:29 2022 +1000
+
+    Price chart in all areas
+
+commit 07349067850f4b448dc31487c3dee1004003c66e
+Author: s5267134 <git@github.com:s5267134>
+Date:   Sat Oct 1 00:39:53 2022 +1000
+
+    update part B report
+
+commit fcdf7cffb77916aed00b1ddaa584bcda7f38d653
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Wed Sep 28 15:26:58 2022 +1000
+
+    Unit Test 1.0 update
+
+commit 360920d1edeea41e2ae4a2c297f6f4977631f7d8
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Wed Sep 28 14:53:09 2022 +1000
+
+    Cancellation Policy
+
+commit 1ffa9a7e24572a3dc0901e8af569da5abd262180
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Wed Sep 28 13:33:09 2022 +1000
+
+    Pie Title update
+
+commit 04244314b04f0edc9ab5a369a5a203fa66822783
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Wed Sep 28 13:27:04 2022 +1000
+
+    Pie Chart for Cleanliness
+
+commit c51d732a2dd9ced0b65929258cf412f380007491
+Author: s5267134 <git@github.com:s5267134>
+Date:   Tue Sep 27 23:37:57 2022 +1000
+
+    update documentation part B
+
+commit 08061c279a738b8e6abe5b51d9a860cde7d5efe4
+Author: s5267134 <git@github.com:s5267134>
+Date:   Tue Sep 27 22:08:07 2022 +1000
+
+    update analysis.py
+
+commit 3c68ac95d0fb7e5599a9858427163cc2010f5d6c
+Author: s5267134 <git@github.com:s5267134>
+Date:   Tue Sep 27 12:46:58 2022 +1000
+
+    testing changes 2
+
+commit 9c84851fc8b96bc44761124833e3c5576f87ac4f
+Author: s5267134 <git@github.com:s5267134>
+Date:   Tue Sep 27 12:29:38 2022 +1000
+
+    update airbnb-data
+
+commit 95f2c0790d7776c12473a25a3b808f6c58769b95
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Tue Sep 27 10:35:00 2022 +1000
+
+    update gui file name
+
+commit 2606d0a70f3e40201f2cc89b3522f50925980ffb
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Mon Sep 26 21:36:48 2022 +1000
+
+    progress on view property detail
+
+commit dc2af4e78afe4d3cc4d9937d19895543517179b2
+Author: s5267134 <git@github.com:s5267134>
+Date:   Mon Sep 26 12:54:50 2022 +1000
+
+    update data file
+
+commit f8a61678b34ec4a0f0ada84149166964448236e1
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Sep 25 18:06:50 2022 +1000
+
+    top10 rating 0.0
+
+commit 0e55e58ea37d440f1234999be580384c47a6653c
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Sep 24 14:16:19 2022 +1000
+
+    Analysis.py 0.1
+
+commit 808ed1c5b0ca3ba1dbc94f671ec3c7b86493a9df
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Fri Sep 23 18:51:11 2022 +1000
+
+    update: done on summary listing
+
+commit 3de708faba23ee38f395a4803d99bb859e195446
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Thu Sep 22 22:25:14 2022 +1000
+
+    update: populate listing ui
+
+commit 9c4a66f4c50b53bc2388106f93df8becbe2f68bd
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Thu Sep 22 18:31:03 2022 +1000
+
+    update: GUI progress on search fields
+
+commit 3900b255ee336f6021d31ac77159be34224e1fe6
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Wed Sep 14 10:46:15 2022 +1000
+
+    initial test report
+
+commit b603c5d44dbace51611a35fb97b5f5612344efcb
+Author: s5267134 <git@github.com:s5267134>
+Date:   Thu Sep 1 14:14:44 2022 +1000
+
+    Part A submission
+
+commit 41a1ebece49a587cefe26a0c351d9e237f3c591d
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Mon Aug 29 22:38:58 2022 +1000
+
+    Software Version Control
+
+commit 54d3ef259903232bba8a0a0ad16fb62949d8f78d
+Author: s5267134 <git@github.com:s5267134>
+Date:   Mon Aug 29 15:21:29 2022 +1000
+
+    Upload Gantt Chart in png
+
+commit 1fc52f8b3e803be66a336de17cc730f572555fbc
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 28 23:55:02 2022 +1000
+
+    Software Design Document 2.2
+
+commit 59d503e06377b3532873248b63d8df3e1a860fdc
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 28 12:47:07 2022 +1000
+
+    Software Version control 2.1
+
+commit 3a34d4beedd416bf90cc64242e460589114f5e25
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 28 12:35:45 2022 +1000
+
+    Software Design Document 2.0
+
+commit a691ae2adef29d97ae40ec1ef11fd04fcd578a0f
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 28 12:21:32 2022 +1000
+
+    Project Plan 2.2
+
+commit f66d323aaaaeaa6032034c578d317406bd3e40d7
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 28 10:32:04 2022 +1000
+
+    Use case Descriptions 5.1
+
+commit a772d23cef4a29cd6e57293fab9c8eb8d0a3898c
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 27 17:57:27 2022 +1000
+
+    Use Case Description 4.1
+
+commit 00408f092ef13e6d99398acdeb1e054ea862065f
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 27 17:41:38 2022 +1000
+
+    Software Version Control 2
+
+commit 2b0a16ac78e4d9d0122e7d07e433d5175876b164
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 27 13:12:29 2022 +1000
+
+    Use case Diagrams Description 2.3
+
+commit 1e53037524ba7febe8f9bb9e8fb1e7908095d70c
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 27 12:49:25 2022 +1000
+
+    Use Case Description 2.2
+
+commit f34fe5d6f3218f2e0051c7372a7f70aedf4f5b6a
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 27 12:14:56 2022 +1000
+
+    Use case Diagrams update 2
+
+commit d30bd82d8ef9e75ac1981956875e51e524de2812
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 27 11:48:40 2022 +1000
+
+    Software Version Control
+
+commit 53f1003f2f834267cca656f32b591268c1bb87c3
+Author: s5267134 <git@github.com:s5267134>
+Date:   Fri Aug 26 17:27:58 2022 +1000
+
+    update project plan 2.1
+
+commit 5246c6f7d17504bf7b477051969c96bd40d6fdd1
+Author: s5267134 <git@github.com:s5267134>
+Date:   Fri Aug 26 15:18:07 2022 +1000
+
+    update project plan 2.0
+
+commit 33a70322e6eb8326c6424efa79c09f94f36101ac
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Fri Aug 26 14:44:13 2022 +1000
+
+    update: data structure
+
+commit ce893e377b7a25541b98693ce281f1e45c79e864
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Thu Aug 25 19:54:45 2022 +1000
+
+    progress
+
+commit 4a5732e5a23d84ccfda804eb246cc020fcaaa331
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Thu Aug 25 13:14:09 2022 +1000
+
+    update: system flow chart diagram
+
+commit 81111aaf0249c15fd6ef50202b9ced2131047aee
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Thu Aug 25 12:30:56 2022 +1000
+
+    update gitignore to omit data files
+
+commit 8dea37809912e27d1977c149ec1e3e178cd1e2b7
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Tue Aug 23 18:45:50 2022 +1000
+
+    add: user design interface
+
+commit 70ede3657fe25e4f990b257c1b3e042fec862223
+Author: s5267134 <git@github.com:s5267134>
+Date:   Mon Aug 22 22:59:51 2022 +1000
+
+    update project plan 1.1
+
+commit e8bf4bcbef3560d87afbe4d4399ab21a5926a9b6
+Author: s5267134 <git@github.com:s5267134>
+Date:   Mon Aug 22 16:06:30 2022 +1000
+
+    create project paln 1.0
+
+commit 01bc2acec140a98d8603904c1d934cee0147a853
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Mon Aug 22 15:21:06 2022 +1000
+
+    update: added data structure
+
+commit 2c60ae6cea05490c3b9d7b906a8f9bf30f6578b0
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Sun Aug 21 22:57:11 2022 +1000
+
+    update: simple correction on user requirement
+
+commit 40787cd664e5326908e7d7400fea7a450d65861e
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 21 11:44:33 2022 +1000
+
+    Use Case Descriptions
+
+commit 66e229b50cf2bfd3a21b759a92fafdbbc51b8213
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sun Aug 21 11:30:38 2022 +1000
+
+    Use Case Diagrams
+
+commit 607bbd6ed39d95a269cdf71530f04894bce638a8
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Sat Aug 20 12:18:57 2022 +1000
+
+    Software Requirement2
+
+commit 5a44c083534df10d8c787ff5cc8f825b8d170560
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Aug 19 17:16:41 2022 +1000
+
+    Software Requirement
+
+commit b96d11e72a3d8be010b607b493282efc4eb39393
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Aug 19 15:27:01 2022 +1000
+
+    User Requirement3
+
+commit 679a0e0b40f3fdcbdf485723d3b33d69e0ec4cf2
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Fri Aug 19 15:05:33 2022 +1000
+
+    User Requirement2
+
+commit 0427b0f39185d6f977417996c7bebeda8bc29fe9
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Tue Aug 16 17:05:31 2022 +1000
+
+    User Requirements
+
+commit c4dad20cedb8e657b8e8ee1503b66e60ba6f477d
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Mon Aug 15 23:17:36 2022 +1000
+
+    add software design/flowchart
+
+commit 487f88c2a39b2a6b357a6ddadb6aee7c50a208bc
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Mon Aug 15 19:24:57 2022 +1000
+
+    main app folder + project readme + basic wireframe
+
+commit 88b5caa8b80388c03c33ea964447ddf1c248121f
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Mon Aug 15 16:45:28 2022 +1000
+
+    Potential Benefits3
+
+commit 457984676faadb5d1ab5ae23335a826690bbfbda
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Aug 11 18:05:41 2022 +1000
+
+    Potential Benefits2
+
+commit 122810b06707d6938f45c886601a7723db90b4f8
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Aug 11 14:50:41 2022 +1000
+
+    Potential Benefits
+
+commit 4994676d83b48d3a97ef958afe5e229116208929
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Aug 11 14:33:03 2022 +1000
+
+    System Overview
+
+commit 85ebf05418f769a752fed7b730368f1460c6130b
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Aug 11 14:21:08 2022 +1000
+
+    problem Background2
+
+commit 95c3864087455035df59d8b42fe30e2aeae41d68
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Aug 11 14:08:25 2022 +1000
+
+    problem Background
+
+commit 368c2c129316cedfb8bc08587690ee124346d69b
+Author: PJLindaChien <linda.chien@griffithuni.edu.au>
+Date:   Thu Aug 11 13:32:48 2022 +1000
+
+    project name
+
+commit 2c8c053fb9ac66b25a3472e6e2c8f59a5cf5d081
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Mon Aug 8 22:17:03 2022 +1000
+
+    update to template
+
+commit e1535c6f6b7163c4bfba708c7c9fe21a34093fc2
+Author: s5252235 <s5252235@griffiuni.edu.au>
+Date:   Mon Aug 8 22:12:57 2022 +1000
+
+    first commit
